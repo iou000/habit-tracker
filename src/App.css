@@ -35,6 +35,26 @@ button {
   border-radius: 50%;
 }
 
+.habit-input {
+  font-size: 2rem;
+  margin-top: 1em;
+  margin-left: 0.5em;
+}
+
+.habit-input:focus {
+  outline-color: mediumseagreen;
+}
+
+.habit-addBtn {
+  height: 100%;
+  font-size: 2rem;
+  background-color: green;
+  margin-left: 0.5em;
+  padding: 0.08em;
+  color: white;
+  border-radius: 0.2em;
+}
+
 .habit {
   font-size: 2.5rem;
   padding: 0.5em;
